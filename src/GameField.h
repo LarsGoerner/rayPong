@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: CC0-1.0
+
 #ifndef RAYPONG_SRC_GAMEFIELD_H_
 #define RAYPONG_SRC_GAMEFIELD_H_
 
